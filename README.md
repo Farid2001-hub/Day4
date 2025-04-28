@@ -10,7 +10,7 @@ Ce dossier contient un projet de **CLI Task Manager** développé en Python.
 
 La documentation complète du projet est disponible ici :
 
-👉 [Day4/Day4/advanced_cli_task_manager/README.md](./advanced_cli_task_manager/README.md)
+👉 [Day4/Day4/advanced_cli_task_manager/README.md](./advanced_cli_task_manager/readme.md)
 
 ---
 
